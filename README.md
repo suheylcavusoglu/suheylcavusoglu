@@ -4,6 +4,7 @@
 
 - I am a Ph.D. student in Environmental Engineering.
 - During my master's degree, I focused on multi-media environmental modeling.
+- You can find my master's thesis [here](https://www.linkedin.com/in/suheylcavusoglu) and our project's code [here](https://github.com/rkgoktas/BETR-QWASI-LU-v1.0).
 - I have a keen interest in data science and machine learning.
 - My goal is to apply machine learning algorithms to environmental systems.
 
